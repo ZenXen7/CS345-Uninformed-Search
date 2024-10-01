@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\heuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\heuristics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\hillsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\hillsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\fringe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\fringe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\fringe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\fringe2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|c:\\users\\karl christian ajero\\downloads\\searchalgorithm\\aliacsearchalgo\\fringes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0D4DA0-8369-491F-92A9-911380AA8FE4}|AliacSearchAlgo\\AliacSearchAlgo.csproj|solutionrelative:aliacsearchalgo\\fringes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Program.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Program.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Program.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:27:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fringe2.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Fringe2.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Fringe2.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Fringe2.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Fringe2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:21:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fringe.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Fringe.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Fringe.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Fringe.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Fringe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:15:53.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fringes.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Fringes.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Fringes.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Fringes.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Fringes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:15:52.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HillSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\HillSearch.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\HillSearch.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\HillSearch.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\HillSearch.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:15:45.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Node.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Node.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Node.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:15:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Search.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Search.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Search.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:14:18.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Heuristics.cs",
+              "DocumentMoniker": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Heuristics.cs",
+              "RelativeDocumentMoniker": "AliacSearchAlgo\\Heuristics.cs",
+              "ToolTip": "C:\\Users\\Karl Christian Ajero\\Downloads\\SearchAlgorithm\\AliacSearchAlgo\\Heuristics.cs",
+              "RelativeToolTip": "AliacSearchAlgo\\Heuristics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:14:17.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
